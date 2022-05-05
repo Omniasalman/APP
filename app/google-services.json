@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66117374297",
+    "project_id": "notbook-28c52",
+    "storage_bucket": "notbook-28c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66117374297:android:261badccb3219644cf3c48",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66117374297-lpjngs1lgtup6hquuj6ahlofdh2p1rcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4yFMsFZD_BLbm0oXH0ckC5kktXXQLcyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66117374297-lpjngs1lgtup6hquuj6ahlofdh2p1rcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
